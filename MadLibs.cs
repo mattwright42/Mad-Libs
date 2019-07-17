@@ -7,8 +7,8 @@ namespace MadLibs
     static void Main(string[] args)
     {
       /*
-      This program ...
-      Author: ...
+      This program asks the user for input and then creates a story from the input. 
+      Author: Matt Wright
       */
 
 
