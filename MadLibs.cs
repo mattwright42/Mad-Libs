@@ -16,7 +16,7 @@ namespace MadLibs
       Console.WriteLine("Let's get started on your MadLibs story!");
 
       // Give the Mad Lib a title:
-      string title = "TITLE";
+      string title = "The Story of My Life";
 
       Console.WriteLine(title);
       // Define user input and variables:
