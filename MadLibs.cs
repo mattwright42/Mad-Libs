@@ -13,7 +13,7 @@ namespace MadLibs
 
 
       // Let the user know that the program is starting:
-
+      Console.WriteLine("Let's get started on your MadLibs story!");
 
       // Give the Mad Lib a title:
       string title = "TITLE";
