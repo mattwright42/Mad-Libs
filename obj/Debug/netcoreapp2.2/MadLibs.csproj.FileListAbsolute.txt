@@ -1,0 +1,11 @@
+/Users/matt/CodeCademy/MadLibs/bin/Debug/netcoreapp2.2/MadLibs.deps.json
+/Users/matt/CodeCademy/MadLibs/bin/Debug/netcoreapp2.2/MadLibs.runtimeconfig.json
+/Users/matt/CodeCademy/MadLibs/bin/Debug/netcoreapp2.2/MadLibs.runtimeconfig.dev.json
+/Users/matt/CodeCademy/MadLibs/bin/Debug/netcoreapp2.2/MadLibs.dll
+/Users/matt/CodeCademy/MadLibs/bin/Debug/netcoreapp2.2/MadLibs.pdb
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.csprojAssemblyReference.cache
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.csproj.CoreCompileInputs.cache
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.AssemblyInfoInputs.cache
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.AssemblyInfo.cs
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.dll
+/Users/matt/CodeCademy/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.pdb
